@@ -1,10 +1,10 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<p align="center">𝐙𝐚𝐢𝐝 𝐔𝐬𝐞𝐫𝐛𝐨𝐭 🔥 </p>
+<p align="center">𝐗𝐝 𝐔𝐬𝐞𝐫𝐛𝐨𝐭 🔥 </p>
 
 - A First Telegram Userbot Project With Multi Clients Based On PyroGram
 
-<p align="center"><a href="https://t.me/TheUpdatesChannel"><img src="https://telegra.ph/file/723d8ef9fb7e721135221.jpg" width="300"></a></p>
+<p align="center"><a href="https://t.me/TheXCodeTeam"><img src="https://telegra.ph/file/60af4b8b00bd712e20286.jpg" width="300"></a></p>
 <p align="center">
     <a href="https://www.python.org/" alt="made-with-python"> <img src="https://img.shields.io/badge/Made%20with-Python-black.svg?style=flat-square&logo=python&logoColor=blue&color=red" /></a>
 
@@ -12,7 +12,7 @@
 <p align="center"> 🅡🅔🅟🅞 🅢🅣🅐🅣🅢 </p>
 
 
-![github card](https://github-readme-stats.vercel.app/api/pin/?username=ITZ-ZAID&repo=ZAID-USERBOT&theme=dark)
+![github card](https://github-readme-stats.vercel.app/api/pin/?username=NitricXd&repo=XD-USERBOT&theme=dark)
 
 <h3>ʀᴇQᴜɪʀᴇᴍᴇɴᴛꜱ 📝</h3>
 
@@ -25,7 +25,7 @@
 
 <p align="center">𝐆𝐞𝐧𝐞𝐫𝐚𝐭𝐞 𝐒𝐭𝐫𝐢𝐧𝐠 𝐒𝐞𝐬𝐬𝐢𝐨𝐧</p>
 
-<p align="center"><a href="https://replit.com/@Itz-zaid/Generator"> <img src="https://img.shields.io/badge/String%20Session-black?style=for-the-badge&logo=replit" width="220" height="38.45"/></a></p>
+<p align="center"><a href="https://replit.com/@NitricXd/Generator#main.py"> <img src="https://img.shields.io/badge/String%20Session-black?style=for-the-badge&logo=replit" width="220" height="38.45"/></a></p>
 
 
 #
@@ -96,15 +96,15 @@
 
 ## ᴅᴇᴘʟᴏʏ ᴏɴ ʀᴀɪʟᴡᴀʏ 🚄
 
-<p align="center"><a href="https://railway.app/new/template?template=https://github.com/ITS-ZAID/Railway-Deploy&envs=STRING_SESSION5,STRING_SESSION4,STRING_SESSION3,STRING_SESSION2,STRING_SESSION1,DATABASE_URL,API_ID,API_HASH,SUDO_USERS,MONGO_DB"> <img src="https://img.shields.io/badge/Deploy%20To%20Railway-black?style=for-the-badge&logo=railway" width="220" height="38.45"/></a></p>
+<p align="center"><a href="https://railway.app/new/template?template=https://github.com/NitricXd/Railway-Deploy&envs=STRING_SESSION5,STRING_SESSION4,STRING_SESSION3,STRING_SESSION2,STRING_SESSION1,DATABASE_URL,API_ID,API_HASH,SUDO_USERS,MONGO_DB"> <img src="https://img.shields.io/badge/Deploy%20To%20Railway-black?style=for-the-badge&logo=railway" width="220" height="38.45"/></a></p>
 
 ```console
-Zaid@Debian~ $ apt-get -y update
-Zaid@Debian~ $ apt-get -y install git gcc python3-dev
-Zaid@Debian~ $ git clone https://github.com/ITZ-ZAID/ZAID-USERBOT
-Zaid@Debian~ $ cd ZAID-USERBOT
-Zaid@Debian~ $ pip3 install -U-r requirements.txt
-Zaid@Debian~ $ nano config.py
+Nitric@Debian~ $ apt-get -y update
+Nitric@Debian~ $ apt-get -y install git gcc python3-dev
+Nitric@Debian~ $ git clone https://github.com/NitricXd/XD-USERBOT
+Nitric@Debian~ $ cd XD-USERBOT
+Nitric@Debian~ $ pip3 install -U-r requirements.txt
+Nitric@Debian~ $ nano config.py
 ```
 
 <h3 align="center">
@@ -112,11 +112,12 @@ Zaid@Debian~ $ nano config.py
 </h3>
 
 ```console
-Zaid@Debian~ $ screen
-Zaid@Debian~ $ python3 main.py
+Nitric@Debian~ $ screen
+Nitric@Debian~ $ python3 main.py
 ```
 
 ### ꜱᴘᴇᴄɪᴀʟ ᴄʀᴇᴀᴅɪᴛꜱ 💖
+- Zaid Userbot
 - Seden Userbot
 - Friday
 - Nana
@@ -128,8 +129,8 @@ Zaid@Debian~ $ python3 main.py
 
 <p align="center">𝐒𝐮𝐩𝐩𝐨𝐫𝐭 / 𝐂𝐡𝐚𝐧𝐧𝐞𝐥 ----> </p>
 
-<p align="center"><a href="https://t.me/TheSupportChat"><img src="https://img.shields.io/badge/ᴛᴇʟᴇɢʀᴀᴍ-𝐒𝐮𝐩𝐩𝐨𝐫𝐭-black?&style=for-the-badge&logo=telegram" width="220" height="38.45"></a></p>
-<p align="center"><a href="https://t.me/TheUpdatesChannel"><img src="https://img.shields.io/badge/ᴛᴇʟᴇɢʀᴀᴍ-𝐔𝐩𝐝𝐚𝐭𝐞𝐬-black?&style=for-the-badge&logo=telegram" width="220" height="38.45"></a></p>
+<p align="center"><a href="https://t.me/XCodeSupport"><img src="https://img.shields.io/badge/ᴛᴇʟᴇɢʀᴀᴍ-𝐒𝐮𝐩𝐩𝐨𝐫𝐭-black?&style=for-the-badge&logo=telegram" width="220" height="38.45"></a></p>
+<p align="center"><a href="https://t.me/TheXCodeTeam"><img src="https://img.shields.io/badge/ᴛᴇʟᴇɢʀᴀᴍ-𝐔𝐩𝐝𝐚𝐭𝐞𝐬-black?&style=for-the-badge&logo=telegram" width="220" height="38.45"></a></p>
 
 #
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
