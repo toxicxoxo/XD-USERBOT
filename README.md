@@ -65,7 +65,7 @@
 ### 🚀 Deploy Process
 - Click on the deploy button above and login to your [heroku account](https://heroku.com/login) .
 - Fill your values there.
-- If you don't know how to get config vars : [Please refer here](https://github.com/ITZ-ZAID/Zaid-Vc-Player/blob/main/sample.env)
+- If you don't know how to get config vars : [Please refer here](https://github.com/NitricXd/Sample.env/blob/main/sample.env)
 - Make sure you fill correct values.
 - Click on **Deploy** button.
 - Please wait till the app gets deployed on heroku. Deploying can take upto **2-3 mins**..
@@ -84,7 +84,7 @@
 - Click on the **More Button** present at top right corner .
 - Click on the **View Logs** button from the drop down menu.
 - You check your logs there!
-- Click on save button there at bottom to save your logs and forward it to us on [@Bot_Support](https://t.me/Superior_Support) if you face any problem
+- Click on save button there at bottom to save your logs and forward it to us on [@TheXcodeTeam](https://t.me/TheXcodeTeam) if you face any problem
 
 </details>
 
