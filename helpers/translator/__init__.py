@@ -10,7 +10,7 @@
 from json import loads
 from os import getcwd, listdir, path
 
-pwd = f'{getcwd()}/sedenecem/translator'
+pwd = f'{getcwd()}/helpers/translator'
 
 translate_cache = {}
 
