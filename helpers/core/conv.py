@@ -1,7 +1,7 @@
 from os import remove
 from time import sleep
 
-from sedenbot import CONVERSATION, app
+from handlers import CONVERSATION, app
 
 
 class PyroConversation:
