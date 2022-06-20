@@ -1,6 +1,6 @@
 from bs4 import BeautifulSoup
 from requests import get
-from sedenbot import TEMP_SETTINGS, get_translation
+from handlers import TEMP_SETTINGS, get_translation
 
 from .misc import edit
 
