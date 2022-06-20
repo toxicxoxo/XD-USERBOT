@@ -25,7 +25,7 @@ from sys import version_info
 from traceback import format_exc
 from typing import Any, Dict
 
-import helpers.translator as _tr
+import helpers.translator as _en
 from dotenv import load_dotenv, set_key, unset_key
 from pyrogram import Client, filters
 from pyrogram.handlers import MessageHandler
