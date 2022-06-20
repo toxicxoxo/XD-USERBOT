@@ -210,7 +210,7 @@
         },
         "MONGO_DB": {
             "description": "Enter Your Mongo Database Url! This Is helpful for gban fban etc stuffs",
-            "required": false
+            "required": true
         },
         "LOG_GROUP": {
             "description": "Enter There group/ channel id where fbans etc stuffs logs ( Add @MissRose_bot and type /id, if channel then forward a message to @MissRose_bot.)",
