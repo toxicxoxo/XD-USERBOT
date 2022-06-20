@@ -178,7 +178,7 @@ SESSION = environ.get('SESSION', 'sedenify')
 
 # SedenBot repo url for updater
 REPO_URL = environ.get(
-    'REPO_URL', 'https://github.com/NitricXd/XD-USERBOT'
+    'REPO_URL', 'https://github.com/NitricXd/XD-USERBOT/tree/master'
 )
 
 # Heroku Credentials for updater
@@ -292,7 +292,7 @@ del API_HASH
 
 
 def __get_modules():
-    folder = 'sedenbot/modules'
+    folder = 'handlers'
     modules = [
         f[:-3]
         for f in listdir(folder)
