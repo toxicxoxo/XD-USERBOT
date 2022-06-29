@@ -1,1 +1,1 @@
-worker: bash xd
+worker: python3 main.py
