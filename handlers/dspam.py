@@ -23,7 +23,7 @@ async def delayspam_handler(app: Client, m: Message):
             text = msg[3]
             for x in range(times):
                 await app.send_message(m.chat.id, text)
-                await asyncio.sleep(sec)
+                await asyncio.sleep(1.2)
         else:
             await app.send_edit(m, "something wrong")
     except Exception as e:
