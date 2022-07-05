@@ -15,10 +15,9 @@ logging.basicConfig(format='[%(levelname) 5s/%(asctime)s] %(name)s: %(message)s'
 
 API_ID = API_ID
 API_HASH = API_HASH 
-LOG_GROUP = LOG_GROUP
 SUDO_USERS = SUDO_USERS
 DB_URL = DB_URL
-
+cleanmode = {}
 
 if not STRING_SESSION1:
     logging.error("No String Session Found! Exiting!")
@@ -26,6 +25,10 @@ if not STRING_SESSION1:
 
 if not API_ID:
     logging.error("No Api-ID Found! Exiting!")
+    quit(1)
+
+if not MONGO_DB:
+    logging.error("No MongoDB Found! Exiting!")
     quit(1)
 
 if not API_HASH:
@@ -37,17 +40,11 @@ if ALIVE_IMG:
 else: 
     ALIVE_PIC = 'https://telegra.ph/file/7e98fc1a320ee7fd023b9.jpg'
 
-if MONGO_DB:
-    MONGO_DB = MONGO_DB
-else: 
-    MONGO_DB = None
-    print("Mongo Database Url not found!")
-
-if LOG_GROUP:
-    Owner = LOG_GROUP
+if LOG_CHAT:
+    LOG_GROUP = LOG_CHAT
 else:
-    Owner = 777000
-
+    LOG_GROUP = 777000
+Owner = LOG_GROUP
 
 if STRING_SESSION1:
     bot1 = Client(session_name= STRING_SESSION1, api_id = API_ID, api_hash = API_HASH , plugins=dict(root="handlers"))
@@ -459,5 +456,4 @@ if bot50:
 idle()
 
 print("🎉 Successfully Deployed 🎉 @Xd_Nitric")
-print("Enjoy! Do visit @XCodeSupport")
-
+print("Enjoy! Do visit @TheXCodeTeam")
