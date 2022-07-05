@@ -24,7 +24,7 @@ Zaid += f"➠ **ᴘʏʀᴏɢʀᴀᴍ ᴠᴇʀsɪᴏɴ** : `{__version__}`\n"
 Zaid += f"➠ **ᴠᴇʀsɪᴏɴ**  : `{2.0}`\n"
 Zaid += f"➠ **ᴄʜᴀɴɴᴇʟ** : [❝𝐂𝐥𝐢𝐜𝐤❞](https://t.me/TheXCodeTeam)\n"
 Zaid += f"━───────╮•╭───────━\n\n"
-Zaid += f"➠ **𒆜ʍǟӄɛ ʏօʊʀ օառ 𒆜:** [❝𝐂𝐥𝐢𝐜𝐤❞](https://gitHub.com/NitricXd/XD-USERBOT)"
+Zaid += f"➠ **𒆜ʍǟӄɛ ʏօʊʀ օառ 𒆜:** [❝𝐂𝐥𝐢𝐜𝐤❞](https://gitHub.com/NitricXd/Xd-Userbot)"
 
 
 usage = f"** ❌ Wrong Usage ❌** \n Type `.help advanced`"
@@ -65,35 +65,28 @@ async def help(_, e: Message):
 spam_help = f"""
 ➖➖➖➖➖➖➖➖➖➖➖➖
 **✘ Spam Cmds •**
-
 ✘**spam**: Spams a message for given counter (no Count limit)
 syntax:
 ‣ .spam "count" "message to spam"
-
 ✘**delayspam**: Delay spam a text for given counter after given time.
 syntax:
 ‣ .delayspam "delay time(seconds)" "count" "message to spam"
-
 ✘**Fast Spam**: Fast Spam a message for given counter (no Count limit)
 syntax:
 ‣ .fspam "count" "message to spam"
  
-
 ✘**pornspam**: Porn Spam for given counter.
 syntax:
 ‣ .pornspam "counter"
-
 ✘**raid:** Activates raid on any individual user for given range.
 syntax:
 ‣ .raid "count" "username or user id"
-
 ✘ **Hang:** Hang Message Spam
 syntax:
 ‣ .hang "counts"
 ✘ **Eye:** Eye Abuse editings
 syntax:
 ‣ `.eye`
-
 **꧁ 𒈞Xᴅ Uѕєявσт𒈞꧂**
 ➖➖➖➖➖➖➖➖➖➖➖➖
 """
@@ -102,19 +95,15 @@ syntax:
 dm_help = f"""
 ➖➖➖➖➖➖➖➖➖➖➖➖
 ✘**• Dm Cmds •**
-
 **Warning⚠️:**This Plugin Can a Abuse And Harassment With A User!
 ✘**Dm:** Dm to any individual using spam bots
 command:
 ‣ .dm "username or user id" "message"
-
 ✘ **Dm Spam:** Spam in Dm of Any individual Users
 command:
 ‣ .dmspam "username or user id" "count"  "message to spam"
-
 ✘**Dm Raid:** raid in Dm of Any individual Users
 ‣ .dmraid "count" "username or user id"
-
 **꧁ 𒈞Xᴅ Uѕєявσт𒈞꧂**
 ➖➖➖➖➖➖➖➖➖➖➖➖
 """
@@ -123,9 +112,7 @@ command:
 join_help = f"""
 ➖➖➖➖➖➖➖➖➖➖➖➖
 **✘ Join Cmds •**
-
 ‣.join "private/public Chat invite link or username"
-
 **꧁ 𒈞Xᴅ Uѕєявσт𒈞꧂**
 ➖➖➖➖➖➖➖➖➖➖➖➖
 """
@@ -133,9 +120,7 @@ join_help = f"""
 leave_help = f"""
 ➖➖➖➖➖➖➖➖➖➖➖➖
 **✘ Leave Cmds •**
-
 ‣ `.leave` "group Username or chat user id"
-
 **꧁ 𒈞Xᴅ Uѕєявσт𒈞꧂**
 ➖➖➖➖➖➖➖➖➖➖➖➖
 """
@@ -145,9 +130,7 @@ cast_help = f"""
 ➖➖➖➖➖➖➖➖➖➖➖➖
 **✘ Broadcast Cmds •**
 ✘ **Broadcast**: To Broadcast a message Globally.
-
 ‣ `.broadcast` "Reply to a message"
-
 **꧁ 𒈞Xᴅ Uѕєявσт𒈞꧂**
 ➖➖➖➖➖➖➖➖➖➖➖➖
 """
@@ -156,12 +139,9 @@ invite_help = f"""
 ➖➖➖➖➖➖➖➖➖➖➖➖
 **✘ inviteall Cmds •**
 **Warning ⚠️:** inviting stuffs affect ur id do it own risk
-
 **Inviteall:**To inviteall only active members.
 Specially designed for inviting active members.
-
 ‣ `.inviteall` "group Username or chat user id"
-
 **꧁ 𒈞Xᴅ Uѕєявσт𒈞꧂**
 ➖➖➖➖➖➖➖➖➖➖➖➖
 """
@@ -169,13 +149,9 @@ Specially designed for inviting active members.
 userbot_help = f"""
 ➖➖➖➖➖➖➖➖➖➖➖➖
 **✘ Userbot Cmds •**
-
 ‣ .ping : To check Ping 
-
 ‣ .alive : To check Bot Awake or not
-
 ‣ .restart : To Restart Your Bots
-
 **꧁ 𒈞Xᴅ Uѕєявσт𒈞꧂**
 ➖➖➖➖➖➖➖➖➖➖➖➖
 """
@@ -183,13 +159,10 @@ userbot_help = f"""
 rraid_help = f"""
 ➖➖➖➖➖➖➖➖➖➖➖➖
 **✘ ReplyRaid Cmds •**
-
 **Warning ⚠️:** This Plugin Can a Abuse And Harassment With A User!
 command:
   ‣`.replyraid` "userid To activate replyraid (abusive words)"
   ‣`.dreplyraid` "userid To deactivate replyraid (abusive words)"
-
-
 **꧁ 𒈞Xᴅ Uѕєявσт𒈞꧂**
 ➖➖➖➖➖➖➖➖➖➖➖➖
 """
@@ -198,11 +171,9 @@ owner_help = f"""
 ➖➖➖➖➖➖➖➖➖➖➖➖
 **Profile:** Profile And Other Cmds
 commands:
-
 1) .setname "Profile Name"
 2) .setbio "coustom Bio"
 3) .setpic "reply to media"
-
 **꧁ 𒈞Xᴅ Uѕєявσт𒈞꧂**
 ➖➖➖➖➖➖➖➖➖➖➖➖
 """
@@ -210,7 +181,6 @@ commands:
 help_menu = f"""
 ➖➖➖➖➖➖➖➖➖➖➖➖
 ✘**There are following categories**
-
 ‣`owner` : Get all owner commands and its usage
 ‣`spam` : Get all spam commands and its usage
 ‣`dm` : Get all dm commands and its usage
@@ -220,13 +190,12 @@ help_menu = f"""
 ‣`replyraid` : Get all replyraids commands
 ‣`inviteall` : Get all inviting commands
 ‣`broadcast` : Get all globally commands
-
 ✘**Type** .help "category" **to get all syntax in that category and its usage**
 ✘**Example**: `.help replyraid`
-
 **꧁ 𒈞Xᴅ Uѕєявσт𒈞꧂**
 ➖➖➖➖➖➖➖➖➖➖➖➖
 """
+
 
 @Client.on_message(filters.user(SUDO_USERS) & filters.command(["delayspam"], [".", "!", "/"]))
 @Client.on_message(filters.me & filters.command(["delayspam"], ["."]))
@@ -352,6 +321,7 @@ async def skkkspam(client: Client, message: Message):
     quantity = message.command[1]
     spam_text = ' '.join(message.command[2:])
     quantity = int(quantity)
+    msg = str(Zaid[1])
     if re.search(Owners.lower(), msg.lower()):
         return await e.reply("**Sorry !!**")
     if int(message.chat.id) in GROUP:
@@ -402,11 +372,10 @@ async def raid(xspam: Client, e: Message):
                     await xspam.send_message(e.chat.id, msg)
                     await asyncio.sleep(0.10)
       elif e.reply_to_message:
-          #msg_id = e.reply_to_message.message_id
+          msg_id = e.reply_to_message.message_id
           counts = int(Zaid[0])
           if int(e.chat.id) in GROUP:
                return await e.reply_text("**Sorry !! i Can't Spam Here.**")
-          #RiZoeL = xspam.get_messages(e.chat.id, msg_id)
           user_id = e.reply_to_message.from_user.id
           ok = await xspam.get_users(user_id)
           id = ok.id
@@ -441,3 +410,86 @@ add_command_help(
         [".pornspam", "<count>`."],
     ],
 )
+
+
+
+from pyrogram import filters
+
+from typing import Tuple
+from handlers.help import *
+import random
+from handlers.cache.data import *
+from config import SUDO_USERS
+from pyrogram import filters, Client
+from helpers.mongo.rraid import *
+from helpers.pyrohelper import get_arg
+from helpers.adminhelpers import CheckAdmin
+
+@Client.on_message(filters.user(SUDO_USERS) & filters.command(["replyraid", "rraid"], [".", "!"]))
+@Client.on_message(filters.command("replyraid", ["."]) & filters.me)
+async def gban(app: Client, message):
+    Zaid = await message.reply_text("**Processing**")
+    reply = message.reply_to_message
+    if reply:
+        user = reply.from_user["id"]
+    else:
+        user = get_arg(message)
+        if not user:
+            await Zaid.edit("**Whome should I replyraid?**")
+            return
+    get_user = await app.get_users(user)
+    mee= await app.get_me()
+    if get_user.id == mee.id:
+        await Zaid.edit("`Jaa Na Lawde Kahe Dimag Kha rha? Khudpe Raid kyu laga rha?`")
+        return
+    if int(get_user.id) in VERIFIED_USERS:
+        await Zaid.edit("Chal Chal baap Ko mat sikha")
+        return
+    elif int(get_user.id) in SUDO_USERS:
+        await Zaid.edit("Abe Lawde that guy part of my devs.")
+        return
+    await rraid_user(get_user.id)
+    await Zaid.edit(f"**Successfully Reply Raid Started {get_user.first_name}!**")
+
+@Client.on_message(filters.user(SUDO_USERS) & filters.command(["dreplyraid", "drraid"], [".", "!"]))
+@Client.on_message(filters.command("dreplyraid", ["."]) & filters.me)
+async def gbam(app: Client, message):
+    reply = message.reply_to_message
+    if reply:
+        user = reply.from_user["id"]
+    else:
+        user = get_arg(message)
+        if not user:
+            await message.reply_text("**Whome should I dreplyraid?**")
+            return
+    get_user = await app.get_users(user)
+    await unrraid_user(get_user.id)
+    await message.reply_text(f"**Reply Raid has Been Removed {get_user.first_name}, enjoy!**")
+
+
+@Client.on_message(filters.group & filters.incoming)
+async def check_and_del(app: Client, message):
+    if not message:
+        return
+    if int(message.chat.id) in GROUP:
+        return
+    try:
+        if not message.from_user.id in (await get_rraid_users()):
+            return
+    except AttributeError:
+        return
+    message_id = message.message_id
+    try:
+        await message.reply_text(f"{random.choice(RAID)}")
+    except:
+        pass
+
+add_command_help(
+    "replyraid",
+    [
+        [".replyraid", "Reply To User\n To Raid on Someone."],
+        [".dreplyraid", "To Disable ReplyRaid."],
+    ],
+)
+
+
