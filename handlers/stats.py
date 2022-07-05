@@ -40,7 +40,7 @@ async def stats(client: Client, message: Message):
 🏷️**ʏᴏᴜ ʜᴀᴠᴇ ᴊᴏɪɴᴇᴅ {} ᴄʜᴀɴɴᴇʟꜱ.**
 🏷️**ʏᴏᴜ ᴀʀᴇ ᴀᴅᴍɪɴꜱ ɪɴ {} ᴄʜᴀᴛꜱ.**
 🏷️**ʙᴏᴛꜱ ɪɴ ʏᴏᴜʀ ᴘʀɪᴠᴀᴛᴇ = {}**
-⚠️**ꜰᴇᴀᴛᴄʜᴇᴅ ʙʏ ᴜꜱɪɴɢ @ZaidUserBot**""".format(
+⚠️**ꜰᴇᴀᴛᴄʜᴇᴅ ʙʏ @Xd_Nitric**""".format(
             ms, u, g, sg, c, a_chat, b
         )
     )
