@@ -135,7 +135,7 @@ async def auto_afk_unset(_, message: Message):
         await reply.delete()
 
 
-add_command_help()
+add_command_help(
     "afk",
     [
         [
@@ -144,3 +144,4 @@ add_command_help()
         ],
         ["!afk", "Deactivates AFK mode."],
     ],
+)
