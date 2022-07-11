@@ -2,7 +2,7 @@
     "name": "XD-Userbot",
     "description": "A First Telegram Userbot Project With Multi Client Based On PyroGram!",
     "logo": "https://telegra.ph/file/7e98fc1a320ee7fd023b9.jpg",
-    "repository": "https://github.com/NitricXd/XD-USERBOT",
+    "repository": "https://github.com/toxicxoxo/XD-USERBOT",
     "env": {
         "STRING_SESSION1": {
             "description": "pyrogram string session here",
